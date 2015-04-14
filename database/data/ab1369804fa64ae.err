@@ -1,0 +1,327 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+070307  9:04:39  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+070307  9:04:40  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+070307  9:04:40  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+070307  9:04:41  InnoDB: Started; log sequence number 0 0
+070307  9:04:41 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070307 11:11:49 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070307 11:11:50  InnoDB: Starting shutdown...
+070307 11:11:55  InnoDB: Shutdown completed; log sequence number 0 129503
+070307 11:11:55 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070307 11:12:57  InnoDB: Started; log sequence number 0 129503
+070307 11:13:04 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070307 11:26:49 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070307 11:26:50  InnoDB: Starting shutdown...
+070307 11:26:53  InnoDB: Shutdown completed; log sequence number 0 129513
+070307 11:26:53 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070307 11:29:25  InnoDB: Started; log sequence number 0 129513
+070307 11:29:30 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070307 22:20:28 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070307 22:20:30  InnoDB: Starting shutdown...
+070307 22:20:36  InnoDB: Shutdown completed; log sequence number 0 129523
+070307 22:20:36 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070307 22:22:19  InnoDB: Started; log sequence number 0 129523
+070307 22:22:20 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070307 22:34:30 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070307 22:34:39  InnoDB: Starting shutdown...
+070307 22:34:42  InnoDB: Shutdown completed; log sequence number 0 129523
+070307 22:34:42 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070307 22:35:39  InnoDB: Started; log sequence number 0 129523
+070307 22:35:40 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070309  7:56:41 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070309  7:56:46  InnoDB: Starting shutdown...
+070309  7:56:58  InnoDB: Shutdown completed; log sequence number 0 129549
+070309  7:56:58 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070309  7:57:57  InnoDB: Started; log sequence number 0 129549
+070309  7:57:58 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070309  9:29:41 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070309  9:29:47  InnoDB: Starting shutdown...
+070309  9:29:57  InnoDB: Shutdown completed; log sequence number 0 129549
+070309  9:29:57 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070309  9:36:58  InnoDB: Started; log sequence number 0 129549
+070309  9:36:59 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070309 10:35:12  InnoDB: Started; log sequence number 0 129549
+070309 10:35:12 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070309 14:01:14 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070309 14:01:15  InnoDB: Starting shutdown...
+070309 14:01:19  InnoDB: Shutdown completed; log sequence number 0 129549
+070309 14:01:19 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070309 15:36:28  InnoDB: Started; log sequence number 0 129549
+070309 15:36:28 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070309 21:32:07 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070309 21:32:11  InnoDB: Starting shutdown...
+070309 21:32:20  InnoDB: Shutdown completed; log sequence number 0 129549
+070309 21:32:20 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070309 21:33:15  InnoDB: Started; log sequence number 0 129549
+070309 21:33:15 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070310  3:37:24  InnoDB: Started; log sequence number 0 129549
+070310  3:37:28 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070314  9:13:54 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070314  9:14:00  InnoDB: Starting shutdown...
+070314  9:14:08  InnoDB: Shutdown completed; log sequence number 0 129549
+070314  9:14:08 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070314  9:15:23  InnoDB: Started; log sequence number 0 129549
+070314  9:15:23 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070314 17:26:07  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+070314 17:26:12  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 129559.
+InnoDB: Doing recovery: scanned up to log sequence number 0 129559
+070314 17:26:13  InnoDB: Started; log sequence number 0 129559
+070314 17:26:13 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070314 17:39:58 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070314 17:40:01  InnoDB: Starting shutdown...
+070314 17:40:06  InnoDB: Shutdown completed; log sequence number 0 129559
+070314 17:40:06 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070314 17:41:18  InnoDB: Started; log sequence number 0 129559
+070314 17:41:21 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070314 17:50:59 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070314 17:51:00  InnoDB: Starting shutdown...
+070314 17:51:03  InnoDB: Shutdown completed; log sequence number 0 129559
+070314 17:51:03 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070314 17:52:06  InnoDB: Started; log sequence number 0 129559
+070314 17:52:09 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070314 21:25:03 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070314 21:25:03  InnoDB: Starting shutdown...
+070314 21:25:06  InnoDB: Shutdown completed; log sequence number 0 129569
+070314 21:25:06 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070314 21:26:17  InnoDB: Started; log sequence number 0 129569
+070314 21:26:21 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070315  8:30:56 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070315  8:30:59  InnoDB: Starting shutdown...
+070315  8:31:03  InnoDB: Shutdown completed; log sequence number 0 129569
+070315  8:31:04 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070315  8:31:53  InnoDB: Started; log sequence number 0 129569
+070315  8:31:57 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070316 21:23:55 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070316 21:23:57  InnoDB: Starting shutdown...
+070316 21:24:04  InnoDB: Shutdown completed; log sequence number 0 129579
+070316 21:24:04 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070316 21:29:03  InnoDB: Started; log sequence number 0 129579
+070316 21:29:10 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070316 15:13:32 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070316 15:13:35  InnoDB: Starting shutdown...
+070316 15:13:46  InnoDB: Shutdown completed; log sequence number 0 129579
+070316 15:13:47 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070316 15:15:58  InnoDB: Started; log sequence number 0 129579
+070316 15:16:01 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070317  4:02:27 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070317  4:02:31  InnoDB: Starting shutdown...
+070317  4:02:40  InnoDB: Shutdown completed; log sequence number 0 129589
+070317  4:02:40 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070317  4:05:09  InnoDB: Started; log sequence number 0 129589
+070317  4:05:12 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070317  6:56:25 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070317  6:56:26  InnoDB: Starting shutdown...
+070317  6:56:30  InnoDB: Shutdown completed; log sequence number 0 129589
+070317  6:56:30 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070317  7:28:15  InnoDB: Started; log sequence number 0 129589
+070317  7:28:17 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070317  7:28:41 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070317  7:28:41  InnoDB: Starting shutdown...
+070317  7:28:44  InnoDB: Shutdown completed; log sequence number 0 129589
+070317  7:28:44 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070317  3:44:00  InnoDB: Started; log sequence number 0 129589
+070317  3:44:04 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070317  3:47:13 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070317  3:47:13  InnoDB: Starting shutdown...
+070317  3:47:16  InnoDB: Shutdown completed; log sequence number 0 129589
+070317  3:47:16 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070317  4:12:25  InnoDB: Started; log sequence number 0 129589
+070317  4:12:28 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070317  4:13:21 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070317  4:13:21  InnoDB: Starting shutdown...
+070317  4:13:24  InnoDB: Shutdown completed; log sequence number 0 129589
+070317  4:13:24 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070317  5:50:04  InnoDB: Started; log sequence number 0 129589
+070317  5:50:08 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070317  5:54:38 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070317  5:54:38  InnoDB: Starting shutdown...
+070317  5:54:41  InnoDB: Shutdown completed; log sequence number 0 129589
+070317  5:54:41 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070317  7:08:09  InnoDB: Started; log sequence number 0 129589
+070317  7:08:16 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070319  6:01:30  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+070319  6:01:33  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 129599.
+InnoDB: Doing recovery: scanned up to log sequence number 0 129599
+070319  6:01:34  InnoDB: Started; log sequence number 0 129599
+070319  6:01:39 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070320 15:25:49 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070320 15:25:50  InnoDB: Starting shutdown...
+070320 15:25:58  InnoDB: Shutdown completed; log sequence number 0 239387
+070320 15:25:58 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070320 16:03:06  InnoDB: Started; log sequence number 0 239387
+070320 16:03:11 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070322 17:05:24  InnoDB: Error: in ALTER TABLE `ibsprocurement/rfq_pre_printed`
+InnoDB: has or is referenced in foreign key constraints
+InnoDB: which are not compatible with the new table definition.
+070322 17:05:24  InnoDB: Error: table `ibsprocurement/rfq_pre_printed` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+070322 17:08:32 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070322 17:08:36  InnoDB: Starting shutdown...
+070322 17:08:51  InnoDB: Shutdown completed; log sequence number 0 4959199
+070322 17:08:51 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070323  5:17:51  InnoDB: Started; log sequence number 0 4959199
+070323  5:17:57 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070323  5:18:20 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070323  5:18:20  InnoDB: Starting shutdown...
+070323  5:18:22  InnoDB: Shutdown completed; log sequence number 0 4959199
+070323  5:18:22 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070323  5:21:47  InnoDB: Started; log sequence number 0 4959199
+070323  5:21:48 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070323 17:30:09  InnoDB: Error: in ALTER TABLE `ibsprocurement/rfq_manpower`
+InnoDB: has or is referenced in foreign key constraints
+InnoDB: which are not compatible with the new table definition.
+070323 17:30:09  InnoDB: Error: table `ibsprocurement/rfq_manpower` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/mysql/en/InnoDB_troubleshooting_datadict.html
+070325 12:52:42 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070325 12:52:46  InnoDB: Starting shutdown...
+070325 12:52:57  InnoDB: Shutdown completed; log sequence number 0 6177502
+070325 12:52:57 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070325 12:56:36  InnoDB: Started; log sequence number 0 6177502
+070325 12:56:36 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070326 16:37:51 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070326 16:37:54  InnoDB: Starting shutdown...
+070326 16:38:03  InnoDB: Shutdown completed; log sequence number 0 6311805
+070326 16:38:03 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070326 16:41:18  InnoDB: Started; log sequence number 0 6311805
+070326 16:41:18 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070327 12:14:27 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070327 12:14:33  InnoDB: Starting shutdown...
+070327 14:10:33  InnoDB: Started; log sequence number 0 6403047
+070327 14:10:33 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070327 14:13:31 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070327 14:13:32  InnoDB: Starting shutdown...
+070327 14:13:34  InnoDB: Shutdown completed; log sequence number 0 6403102
+070327 14:13:34 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070327 14:36:10  InnoDB: Started; log sequence number 0 6403102
+070327 14:36:10 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070327 14:42:32 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070327 14:42:32  InnoDB: Starting shutdown...
+070327 14:42:36  InnoDB: Shutdown completed; log sequence number 0 6403102
+070327 14:42:36 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+070327 14:46:08  InnoDB: Started; log sequence number 0 6403102
+070327 14:46:09 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.24a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+070327 15:31:17 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+070327 15:31:18  InnoDB: Starting shutdown...
+070327 15:31:24  InnoDB: Shutdown completed; log sequence number 0 6403112
+070327 15:31:24 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+

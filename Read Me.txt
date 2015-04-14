@@ -1,0 +1,19 @@
+Install Mysql 5.0 located in
+
+http://appforge.apc.edu.ph
+	
+	Download the ff:
+
+	- MySQL Server
+
+	- MySQL Administrator
+
+	- MySQL Query Browser
+
+Install Xampp located in the Application folder of this CD
+
+
+Place Program inside the htdocs folder located in the
+
+C:\Program Files\xampp\htdocs
+
